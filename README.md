@@ -19,7 +19,7 @@ _Right click on L4D2 in your steam library >> Properties >> Set Launch Options_
       
 ### Helped
 
-[SFS Config](https://www.sofuckinskilled.com/resources/so-fuckin-skilled-l4d-autoexec-cfg/)
-[PHLAK Config](https://gist.github.com/PHLAK/241376)
+* [SFS Config](https://www.sofuckinskilled.com/resources/so-fuckin-skilled-l4d-autoexec-cfg/)
+* [PHLAK Config](https://gist.github.com/PHLAK/241376)
 
 This config is still in active development. If you have any suggestions feel free to share them with me.
