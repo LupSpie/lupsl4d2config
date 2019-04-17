@@ -11,8 +11,8 @@ An autoexec file for your L4D2
 
 ### Initialization Options
 
-Here are some initizalization options that you may consider using.
-**_Right click on L4D2 in your steam library >> Properties >> Set Launch Options_**
+Here are some initizalization options that you may consider using.                                   
+_Right click on L4D2 in your steam library >> Properties >> Set Launch Options_
       
  -fullscreen -heapsize <kilobytes> -novid -lv (low violence) -w <screen width> -h <screen height> |
  ---------------|
