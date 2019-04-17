@@ -7,4 +7,6 @@ An autoexec file for your L4D2
 * Crosshair Settings
 * Null Movement
 * Custom binds
-* General Improvment
+* General Improvement
+
+This config is still in active development. If you have any suggestions feel free to share them with me.
