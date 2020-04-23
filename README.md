@@ -13,8 +13,6 @@
 ***
 
 #### Initialization Options
-
-Here are some initizalization options you may consider using.
 ###### _Right click on L4D2 in your steam library >> Properties >> Set Launch Options_
 
  -fullscreen -high -refresh `<rate>` -novid -lv -w `<screen width>` -h `<screen height>` |
